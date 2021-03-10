@@ -1,0 +1,15 @@
+{
+  "name": "inps",
+  "version": "1.0.0",
+  "description": "Inps test",
+  "main": "inps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alain Di Chiappari",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
